@@ -19,6 +19,6 @@ IDE used: Dev C++
 | _Profile Badges_            | https://www.shields.io/        |
 | _Years & Repos Counter_     | https://pufler.dev/git-badges/ |
 | _Slugs_                     | https://github.com/simple-icons/simple-icons/blob/develop/slugs.md |
-| _Years & Repos Counter_     | https://simpleicons.org/      |
+| _icons_     | https://simpleicons.org/      |
 
 </details>
