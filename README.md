@@ -1,6 +1,6 @@
  <h1 align="center">  Squid Game Jump 
 
-  ![Created Badge](https://badges.pufler.dev/created/sumaiyakawsar/SquidJump?&style=plastic&color=black&labelColor=1AEE0B) ![Updated Badge](https://badges.pufler.dev/updated/sumaiyakawsar/SquidJump?&style=plastic&color=black&labelColor=0004FF) ![Visits Badge](https://badges.pufler.dev/visits/sumaiyakawsar/SquidJump?&style=plastic&color=black&labelColor=BF3F41) [![Wakatime](https://wakatime.com/badge/github/sumaiyakawsar/SquidJump.svg)](https://wakatime.com/badge/github/sumaiyakawsar/SquidJump) ![Reason Badge](https://img.shields.io/badge/Personal_Project-ffff00?style=plastic)
+  ![Created Badge](https://badges.pufler.dev/created/sumaiyakawsar/SquidJump?&style=plastic&color=black&labelColor=1AEE0B) ![Updated Badge](https://badges.pufler.dev/updated/sumaiyakawsar/SquidJump?&style=plastic&color=black&labelColor=0004FF) ![Visits Badge](https://badges.pufler.dev/visits/sumaiyakawsar/SquidJump?&style=plastic&color=black&labelColor=BF3F41) [![Wakatime](https://wakatime.com/badge/github/sumaiyakawsar/SquidJump.svg)](https://wakatime.com/badge/github/sumaiyakawsar/SquidJump) ![Reason Badge](https://img.shields.io/badge/Personal_Project-10b981?style=plastic)
 
   </h1>
  
